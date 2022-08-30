@@ -14,8 +14,8 @@ const Portfolio = () => {
     {
       id: 2,
       src: website,
-      url: "",
-      codeLink: "",
+      url: "https://portfolio-website-five-beta.vercel.app/",
+      codeLink: "https://github.com/Deepika-Choudhary/portfolio-website",
     },
     {
       id: 3,
